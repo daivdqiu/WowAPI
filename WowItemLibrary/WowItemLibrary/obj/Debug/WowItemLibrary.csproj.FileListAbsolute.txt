@@ -1,0 +1,5 @@
+e:\users\documents\visual studio 2013\Projects\WowItemLibrary\WowItemLibrary\bin\Debug\WowItemLibrary.dll
+e:\users\documents\visual studio 2013\Projects\WowItemLibrary\WowItemLibrary\bin\Debug\WowItemLibrary.pdb
+e:\users\documents\visual studio 2013\Projects\WowItemLibrary\WowItemLibrary\bin\Debug\Newtonsoft.Json.dll
+e:\users\documents\visual studio 2013\Projects\WowItemLibrary\WowItemLibrary\obj\Debug\WowItemLibrary.dll
+e:\users\documents\visual studio 2013\Projects\WowItemLibrary\WowItemLibrary\obj\Debug\WowItemLibrary.pdb
