@@ -1,0 +1,4 @@
+e:\users\documents\visual studio 2013\Projects\WowItemSetLibrary\WowItemSetLibrary\bin\Debug\WowItemSetLibrary.dll
+e:\users\documents\visual studio 2013\Projects\WowItemSetLibrary\WowItemSetLibrary\bin\Debug\WowItemSetLibrary.pdb
+e:\users\documents\visual studio 2013\Projects\WowItemSetLibrary\WowItemSetLibrary\obj\Debug\WowItemSetLibrary.dll
+e:\users\documents\visual studio 2013\Projects\WowItemSetLibrary\WowItemSetLibrary\obj\Debug\WowItemSetLibrary.pdb

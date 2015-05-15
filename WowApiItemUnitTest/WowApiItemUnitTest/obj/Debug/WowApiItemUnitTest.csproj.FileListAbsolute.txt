@@ -1,0 +1,4 @@
+e:\users\documents\visual studio 2013\Projects\WowApiItemUnitTest\WowApiItemUnitTest\bin\Debug\WowApiItemUnitTest.dll
+e:\users\documents\visual studio 2013\Projects\WowApiItemUnitTest\WowApiItemUnitTest\bin\Debug\WowApiItemUnitTest.pdb
+e:\users\documents\visual studio 2013\Projects\WowApiItemUnitTest\WowApiItemUnitTest\obj\Debug\WowApiItemUnitTest.dll
+e:\users\documents\visual studio 2013\Projects\WowApiItemUnitTest\WowApiItemUnitTest\obj\Debug\WowApiItemUnitTest.pdb
